@@ -45,5 +45,3 @@ Natural Language Processing Metrics (optional):
 - Word Error Rate (WER)
 - Character Error Rate (CER)
 - F1 Score for NER
-
-Translated with DeepL.com (free version)
